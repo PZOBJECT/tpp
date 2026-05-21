@@ -1,11 +1,19 @@
 # Hermes-test
 
 > Hermes Agent + Claude Code 协同工作演示项目
+>
+> **语言: Go** 🚀
 
-## 快速开始
+## 文件说明
+
+| 文件 | 说明 |
+|------|------|
+| `hello.go` | 入门演示 |
+| `calculator.go` | 计算器实现（加减乘除） |
+
+## 运行
 
 ```bash
-# 在 Hermes 中执行:
-/用 Claude Code 帮我写一个 hello world
+go run hello.go
+go run calculator.go
 ```
-
