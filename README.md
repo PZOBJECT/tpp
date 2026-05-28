@@ -2,12 +2,12 @@
 
 > Go SDK 统一接入：钉钉、飞书、微信公众号、微信小程序、企业微信、微信开放平台、支付宝、腾讯微卡
 
-Forked from [leapig/tpp](https://github.com/leapig/tpp)，搬运到 PZOBJECT/Hermes-test。
+Forked from [leapig/tpp](https://github.com/leapig/tpp)，搬运到 PZOBJECT/tpp。
 
 ## 快速开始
 
 ```shell
-go get github.com/PZOBJECT/Hermes-test
+go get github.com/PZOBJECT/tpp
 ```
 
 ```go

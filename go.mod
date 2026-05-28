@@ -1,4 +1,4 @@
-module github.com/PZOBJECT/Hermes-test
+module github.com/PZOBJECT/tpp
 
 go 1.21.0
 

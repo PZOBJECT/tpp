@@ -1,14 +1,14 @@
 package tpp
 
 import (
-	"github.com/PZOBJECT/Hermes-test/ap"
-	"github.com/PZOBJECT/Hermes-test/dt"
-	"github.com/PZOBJECT/Hermes-test/fs"
-	"github.com/PZOBJECT/Hermes-test/mp"
-	"github.com/PZOBJECT/Hermes-test/oa"
-	"github.com/PZOBJECT/Hermes-test/wk"
-	"github.com/PZOBJECT/Hermes-test/wo"
-	"github.com/PZOBJECT/Hermes-test/ww"
+	"github.com/PZOBJECT/tpp/ap"
+	"github.com/PZOBJECT/tpp/dt"
+	"github.com/PZOBJECT/tpp/fs"
+	"github.com/PZOBJECT/tpp/mp"
+	"github.com/PZOBJECT/tpp/oa"
+	"github.com/PZOBJECT/tpp/wk"
+	"github.com/PZOBJECT/tpp/wo"
+	"github.com/PZOBJECT/tpp/ww"
 )
 
 type Tpp interface {
